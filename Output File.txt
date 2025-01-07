@@ -1,0 +1,136 @@
+run:
+Welcome to the Advanced Calculator!
+
+Choose a category:
+1. Basic Arithmetic Operations
+2. Scientific Calculations
+3. Unit Conversions
+4. Exit
+Enter your choice: 1
+
+Basic Arithmetic Operations:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+Enter your choice: 1
+Enter the first number: 20
+Enter the second number: 22
+Result: 42.0
+
+Choose a category:
+1. Basic Arithmetic Operations
+2. Scientific Calculations
+3. Unit Conversions
+4. Exit
+Enter your choice: 1
+
+Basic Arithmetic Operations:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+Enter your choice: 2
+Enter the first number: 20
+Enter the second number: 10
+Result: 10.0
+
+Choose a category:
+1. Basic Arithmetic Operations
+2. Scientific Calculations
+3. Unit Conversions
+4. Exit
+Enter your choice: 1
+
+Basic Arithmetic Operations:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+Enter your choice: 3
+Enter the first number: 3
+Enter the second number: 4
+Result: 12.0
+
+Choose a category:
+1. Basic Arithmetic Operations
+2. Scientific Calculations
+3. Unit Conversions
+4. Exit
+Enter your choice: 1
+
+Basic Arithmetic Operations:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+Enter your choice: 4
+Enter the first number: 50
+Enter the second number: 2
+Result: 25.0
+
+Choose a category:
+1. Basic Arithmetic Operations
+2. Scientific Calculations
+3. Unit Conversions
+4. Exit
+Enter your choice: 2
+
+Scientific Calculations:
+1. Square Root
+2. Exponentiation
+Enter your choice: 1
+Enter the number: 50
+Square Root: 7.0710678118654755
+
+Choose a category:
+1. Basic Arithmetic Operations
+2. Scientific Calculations
+3. Unit Conversions
+4. Exit
+Enter your choice: 2
+
+Scientific Calculations:
+1. Square Root
+2. Exponentiation
+Enter your choice: 2
+Enter the base: 3
+Enter the exponent: 4
+Result: 81.0
+
+Choose a category:
+1. Basic Arithmetic Operations
+2. Scientific Calculations
+3. Unit Conversions
+4. Exit
+Enter your choice: 3
+
+Unit Conversions:
+1. Temperature Conversion (Celsius to Fahrenheit)
+2. Currency Conversion (USD to EUR)
+Enter your choice: 1
+Enter temperature in Celsius: 20
+Temperature in Fahrenheit: 68.0
+
+Choose a category:
+1. Basic Arithmetic Operations
+2. Scientific Calculations
+3. Unit Conversions
+4. Exit
+Enter your choice: 3
+
+Unit Conversions:
+1. Temperature Conversion (Celsius to Fahrenheit)
+2. Currency Conversion (USD to EUR)
+Enter your choice: 2
+Enter amount in USD: 567
+Amount in EUR: 481.95
+
+Choose a category:
+1. Basic Arithmetic Operations
+2. Scientific Calculations
+3. Unit Conversions
+4. Exit
+Enter your choice: 4
+Exiting the program. Goodbye!
+BUILD SUCCESSFUL (total time: 1 minute 14 seconds)
